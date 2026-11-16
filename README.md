@@ -93,6 +93,9 @@ Von **Sizer** (Ordnergrößen + Windows-Papierkorb, CSV) über **GUI und Papierk
 
 ---
 
-## Lizenz / Hinweis
+## Lizenz
 
-Privates Projekt. Für Bugs und Tests: nach Änderungen an Icon oder Packaging `build.cmd` erneut ausführen.
+**Trashcan Source-Available License** – siehe [LICENSE.txt](LICENSE.txt).  
+Repository: [github.com/TheSpicePhantom/trashcan](https://github.com/TheSpicePhantom/trashcan)
+
+Privat und nicht-kommerziell nutzbar; kommerzielle Nutzung oder Vertrieb nur mit schriftlicher Genehmigung des Copyright-Inhabers.
